@@ -1,0 +1,14 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.anandika.anandikanuriman_1202150112_modul6.fragmenthomeall">
+
+    <!-- TODO: Update blank fragment layout -->
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rvhomeall"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</android.support.design.widget.CoordinatorLayout>

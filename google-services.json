@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "381217035446",
+    "firebase_url": "https://terakhir-aja.firebaseio.com",
+    "project_id": "terakhir-aja",
+    "storage_bucket": "terakhir-aja.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381217035446:android:aae5cd2154e194ed",
+        "android_client_info": {
+          "package_name": "com.example.anandika.anandikanuriman_1202150112_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381217035446-spql1upscv03stpmcp0sa07ra7r6dfu5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.anandika.anandikanuriman_1202150112_modul6",
+            "certificate_hash": "53594a0ae287484f751d5a5983d67866c0847a1d"
+          }
+        },
+        {
+          "client_id": "381217035446-5qa2v6bkh0k9gb0606qk9e3e0r2sg7qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxzeCCz4jQ_WlxZFXq9KkDjRrqy_6tUjA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381217035446-5qa2v6bkh0k9gb0606qk9e3e0r2sg7qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
